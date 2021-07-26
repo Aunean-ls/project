@@ -1,0 +1,30 @@
+{'name': 'python阿威', 'position': '前深信服科技python开发', 'skills': 'java,python,sqlserver/mysql,Spring(Spring、Spring MVC、Spring Cloud),flask框架,JavaScrist/jQuery', 'works': '在线任务发布平台,python黑洞网,家教平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日8:00-21:30、周末8:00-23:00'}
+{'name': '柯细帅', 'position': '前深圳汉亿科技有限公司python爬虫工程师', 'skills': 'python 开发', 'works': 'python-runner,python SDK,利用python实现神经网络项目', 'address': '可工作地点：', 'time': '可预约时间：工作日21:00-23:00、周末09:00-19:00'}
+{'name': 'python和go开发', 'position': '某python开发', 'skills': 'Python,Go', 'works': 'cdn转售平台,防火墙,互联网安全防御平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日8:00-0:00、周末8:00-20:00'}
+{'name': 'python大白白', 'position': '华研数据python', 'skills': 'Python,HTML5,CSS,Photoshop,scrapy,Flask', 'works': '新闻舆情监控系统,新闻爬虫系统报告页,矿宝网', 'address': '可工作地点：', 'time': '可预约时间：工作日8:00-10:30、周末10:00-16:30'}
+{'name': 'python大拿', 'position': '中国电信python高级开发工程师', 'skills': 'Python,Docker,MySQL,HTML5', 'works': '中国电信运维平台,火爆三国,奇遇国电商', 'address': '可工作地点：', 'time': '可预约时间：工作日18:30-8:30、周末8:00-23:00'}
+{'name': '欧姆', 'position': '來瑟软件科技有限公司python爬虫工程师', 'skills': 'PHP,Python,MySQL', 'works': 'python制作简易计算器,Python编写一个高效的端口扫描器,python 聊天器', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-18:00'}
+{'name': '编程小孟', 'position': '华育兴业python讲师', 'skills': 'Python', 'works': 'django容器自动化部署脚本,flask容器部署脚本,Python博客', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-24:00、周末08:30-22:00'}
+{'name': 'python_lxy', 'position': '前中国移动Python高级开发工程师', 'skills': 'Python,MySQL,Oracle', 'works': '知识库系统,智能客服平台,自动化运维平台', 'address': '可工作地点：远程', 'time': '可预约时间：工作日20:00-22:00、周末08:00-22:00'}
+{'name': 'python劝退师', 'position': '北京智通博瑞科技发展有限公司python开发工程师', 'skills': 'Python,Linux,MySQL,Redis,RabbitMQ,celery', 'works': '北京市生活垃圾全流程精细化管理服务平台,丰台接诉即办系统,通州区生活垃圾全流程精细化管理服务平台', 'address': '可工作地点：北京远程', 'time': '可预约时间：工作日09:00-18:00、周末09:00-18:00'}
+{'name': 'proginn0957202709', 'position': '宏宇有限公司职员', 'skills': 'Python', 'works': 'python,python,python', 'address': '可工作地点：远程', 'time': '可预约时间：工作日7:00-0:00、周末7:00-0:30'}
+{'name': 'zihuacs', 'position': '一人一python作者', 'skills': 'html,C++,Python,Java,JavaScript,机器学习,自然语言处理', 'works': '踢球者联盟,爱贷汇融,美丽租', 'address': '可工作地点：', 'time': ''}
+{'name': 'proginn2222297929', 'position': '拓宝软件有限公司Python后端开发工程师', 'skills': 'PHP,Python', 'works': '用python写的一个仿微信打飞机游戏的小项目,python打造漏洞扫描器,小游戏网站，PC及移动端自适配，后端PHP，前端Javascript', 'address': '可工作地点：远程', 'time': '可预约时间：工作日09:00-18:00'}
+{'name': '微信用户1634492478', 'position': '无爬虫', 'skills': 'Python 爬虫', 'works': 'Python小爬虫Python小爬虫Python小爬虫Python小爬虫Python小爬虫Pytho,Python小爬虫Python小爬虫Python小爬虫Python小爬虫Python小爬虫Pytho,无', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-24:00、周末7:30-24:00'}
+{'name': '中软国际python工程师', 'position': '中软国际python工程师', 'skills': 'MySQL,Redis,MongoDB,Python,Nginx,HTML5,Django,Flask', 'works': '五星级团购网,校园官网,教育咨询网', 'address': '可工作地点：远程', 'time': '可预约时间：工作日9:00-18:30、周末9:30-18:30'}
+{'name': 'YannZhu', 'position': '前广东凯格科技有限公司python后端开发', 'skills': 'Python,flask框架,flask-socketio,jinja2,Vue,jsp、jquery、javascript、bootstrap、ajax、css,Django,wxpython,linux apache nginx docker gunicorn,MySQL,redis,postgre', 'works': '基于python的挖矿程式,个人网站,凯格科技CMS系统', 'address': '可工作地点：', 'time': '可预约时间：工作日20:00-24:00、周末08:00-24:00'}
+{'name': 'Douglas Dong', 'position': '中国科学院自动化研究所自然语言处理工程师', 'skills': 'Python', 'works': 'python爬虫,python爬虫,NER识别系统', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:00-03:00、周末00:00-23:00'}
+{'name': 'proginn1147237960', 'position': '体制内技术人员', 'skills': 'Python 爬虫,python 开发', 'works': '网络舆情分析,python爬虫,python爬虫', 'address': '可工作地点：远程', 'time': '可预约时间：工作日18:30-24:00、周末8:00-24:00'}
+{'name': 'hadesdian', 'position': '北京数据堂科技股份有限公司python开发工程师', 'skills': 'Python,python 开发,Python 爬虫,python django,Python编程,My sql,mongo DB,pyqt5,vispy,Scrapy框架,HTML(HTML5),深度学习框架:Tensorflow、pytorch', 'works': 'web项目,scrapy自动采集爬虫程序,基于pyqt5+Python3实现pcd点云车辆标注程序', 'address': '可工作地点：远程', 'time': '可预约时间：周末09:30-19:00'}
+{'name': '唯我duz', 'position': '学生程序员', 'skills': 'Python', 'works': 'python开发小游戏,贴吧爬虫,python相关成果', 'address': '可工作地点：远程', 'time': '可预约时间：周末6:00-23:00'}
+{'name': 'byfdbq', 'position': '兰州金利达电子科技有限公司高级工程师', 'skills': 'Python', 'works': 'Python Django(WEB电商项目构建)\n\n2 人赞同了文章\n\nPython Django,Python爬去b站所有视频,Python岗位分析报告', 'address': '可工作地点：', 'time': '可预约时间：工作日18:30-11:30、周末8:00-20:00'}
+{'name': '蓝海水手', 'position': '上海明凯科技有限公司Python程序员', 'skills': 'VBA office开发,python office 开发,Linux开发', 'works': '东方财富网股票信息爬虫,基因检测报告自动化系统,Python毛胚切割动态规划算法实现', 'address': '可工作地点：远程', 'time': '可预约时间：工作日17:30-00:00、周末09:00-21:00'}
+{'name': '我是你1', 'position': '无无', 'skills': 'Python,QT', 'works': '基于python的人脸识别,基于python的远程监控,基于python的聊天工具', 'address': '可工作地点：远程', 'time': '可预约时间：工作日9:30-17:30、周末9:30-17:30'}
+{'name': '简言之', 'position': '畅想软件公司Python程序员', 'skills': 'Python,android java,前端,Linux', 'works': '简讯-一款电脑端通信软件,自动化浏览器之拼多多自动批量支付脚本,Python爬虫爬取国家社科基金项目数据库', 'address': '可工作地点：远程', 'time': '可预约时间：工作日8:00-20:00'}
+{'name': 'proginn1852537176', 'position': '中软国际测试开发', 'skills': 'Python', 'works': '基于halcon的ocr车牌识别,python图像处理,python自动化测试脚本', 'address': '可工作地点：远程', 'time': '可预约时间：工作日19:00-24:00、周末8:00-24:00'}
+{'name': '皓禹', 'position': '搜狐服务端负责人', 'skills': 'Python', 'works': '搜狐新闻客户端【我的】,推播,青松抗D', 'address': '可工作地点：远程', 'time': '可预约时间：工作日10:00-22:00、周末09:00-05:00'}
+{'name': '微信用户0903254638', 'position': '中兴python开发', 'skills': 'Python', 'works': 'Web3,Web2,Web', 'address': '可工作地点：远程', 'time': '可预约时间：周末9:00-17:00'}
+{'name': 'Javy', 'position': '云智慧资深Python研发', 'skills': 'C++,Python', 'works': 'Python Agent重构,影像数据标记平台,基础空间数据库管理系统', 'address': '可工作地点：', 'time': '可预约时间：工作日21:00-01:00、周末08:00-20:00'}
+{'name': '乌云过处', 'position': '个人Python相关', 'skills': 'Python 爬虫,html\\css,Python', 'works': 'Web网页制作,企业基本信息爬虫,企业基本信息管理系统', 'address': '可工作地点：远程', 'time': '可预约时间：工作日-、周末8:00-0:00'}
+{'name': 'ONE356', 'position': '鲁迅美术学院运维', 'skills': 'Python,项目管理', 'works': 'python监控平台,集群管理系统,python 开发linux web控制面板', 'address': '可工作地点：远程', 'time': '可预约时间：工作日08:00-17:00、周末08:00-17:00'}
+{'name': 'python007', 'position': '猪八戒兼职', 'skills': 'python爬虫', 'works': '数据可视化,晋江文学网爬虫,猫眼爬虫', 'address': '可工作地点：远程', 'time': '可预约时间：工作日21:00-24:00'}
