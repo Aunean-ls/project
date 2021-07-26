@@ -1,0 +1,42 @@
+目录
+    -data：数据存放
+    -dataAnalysis：数据清洗和分析
+    -dataShow：数据展示
+    -getData：数据获取
+
+
+数据获取
+    -所用模块
+        ·csv
+        ·requests
+        ·time
+    -共获取200页数据，共计10000条数据
+
+
+数据清洗和分析
+    -所用模块
+        ·pandas
+    -processedData.csv 经过去重和去除空值，剩余8285条数据
+    -dataAnalysis/position.py
+        ·获取岗位名称数据，并将其进行分组，求得各个岗位招聘数量，
+        ·取出 top 10，将其保存为csv数据
+    -city_to_province.py
+        ·将各城市名与所属省份对应起来，然后根据province进行分组
+    -china_city.py
+        ·提取China-City-List-latest.csv中需要的数据
+    -companyType.py
+        ·根据公司类型进行分组，求得各类型数量
+    -words.py
+        ·根据工作福利字段获取词云图绘制所需数据
+
+
+
+数据展示
+    -所用模块
+        ·pyecharts-1.9.0
+    -position_pie_top_ten.py
+        ·将招聘岗位前十的数据绘制成饼图，展现各个岗位的占比情况
+    -largeScreen.py
+        ·绘制一张大屏图
+
+
