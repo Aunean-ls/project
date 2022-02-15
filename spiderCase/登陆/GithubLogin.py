@@ -17,8 +17,8 @@ print(token)
 data = {
     'commit': 'Sign in',
     'authenticity_token': token[0],
-    'login': '1453357375@qq.com',
-    'password': 'qaz3357375',
+    'login': '1245234323@qq.com',
+    'password': '32432423',
     'trusted_device': '',
     'webauthn-support': 'supported',
     'webauthn-iuvpaa-support': 'supported',
